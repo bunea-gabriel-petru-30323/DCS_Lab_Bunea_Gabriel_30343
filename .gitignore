@@ -1,0 +1,10 @@
+# Compiler output
+out/
+*.class
+
+# macOS
+.DS_Store
+
+# IntelliJ (volatile, per-user files)
+.idea
+Network Programming 1.pdf
